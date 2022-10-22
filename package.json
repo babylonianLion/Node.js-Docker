@@ -1,0 +1,22 @@
+{
+  "name": "node.js-docker",
+  "version": "1.0.0",
+  "description": "A docker container with a basic Node.js web application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babylonianLion/Node.js-Docker.git"
+  },
+  "author": "Hussain Al Zerjawi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/babylonianLion/Node.js-Docker/issues"
+  },
+  "homepage": "https://github.com/babylonianLion/Node.js-Docker#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
